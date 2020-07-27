@@ -1,6 +1,6 @@
 # Burtleina-Board
 Yet another Multipurpose Breakout Board to hack hardware in a clean and easy way.<br>
-Read more about it here:
+Read more about it here: https://medium.com/@LucaBongiorni/hacking-iot-rf-devices-with-b%C3%BCrtleinaboard-165e246b1ed0
  <img src="https://user-images.githubusercontent.com/25242404/88533097-5b69c780-d00e-11ea-945b-755d8c0ab963.JPG" width=300 align=right>
 
 
