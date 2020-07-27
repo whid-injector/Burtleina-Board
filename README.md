@@ -10,3 +10,8 @@ Please check the BOM.txt for the components needed.
 # BUSSide
 Repo: https://github.com/BSidesCbr/BUSSide <br>
 Manual: https://github.com/BSidesCbr/BUSSide/blob/master/BUSSideManual.pdf
+
+# Tips
+Always remember to remove the CC1101 daughter-board if you don't use it.<br>
+Also remember to remove SPI/I2C flashes from their sockets if not in use.<br>
+Otherwise it will interfere with BUSSide operations!
